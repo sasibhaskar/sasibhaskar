@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sasibhaskar&label=Profile%20Views&color=0e75b6&style=flat)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sasi+Bhaskar+👋;Product+Developer+%7C+2+Years+Exp;Building+Cool+Stuff+with+Code+🚀;Let's+Connect+and+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I+am+Sasi+Bhaskar;Product+Developer+%7C+2+Years+Exp;Building+Cool+Products+Daily;Lets+Connect+and+Collaborate!" alt="Typing SVG" />
 
 </div>
 
