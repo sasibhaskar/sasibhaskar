@@ -58,8 +58,7 @@ Hi! I'm **Sasi Bhaskar** — a passionate **Product Developer** with **2 years o
 
         <div align="center">
 
-        <img src="https://github-readme-stats.vercel.app/api?username=sasibhaskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
+        <img src="https://github-readme-stats.vercel.app/api?username=sasibhaskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
         <img src="https://streak-stats.demolab.com/?user=sasibhaskar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
         </div>
@@ -76,7 +75,7 @@ Hi! I'm **Sasi Bhaskar** — a passionate **Product Developer** with **2 years o
 
         <div align="center">
 
-        [![trophy](https://github-profile-trophy.vercel.app/?username=sasibhaskar&theme=darkhub&no-frame=true&no-bg=false&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+        <img src="https://github-profile-trophy.vercel.app/?username=sasibhaskar&theme=darkhub&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
         </div>
 
