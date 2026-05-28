@@ -58,14 +58,14 @@ Hi! I'm **Sasi Bhaskar** — a passionate **Product Developer** with **2 years o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sasibhaskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sasibhaskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=sasibhaskar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasibhaskar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasibhaskar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" width="50%" />
 
 </div>
 
@@ -75,7 +75,7 @@ Hi! I'm **Sasi Bhaskar** — a passionate **Product Developer** with **2 years o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sasibhaskar&theme=darkhub&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sasibhaskar&theme=darkhub&no-frame=true&margin-w=6&column=6&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
